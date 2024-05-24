@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Libreria_Multimediale">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Libreria_Multimediale.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
